@@ -7,4 +7,4 @@ The dataset used for training and evaluation is sourced from Kaggle and is avail
 
 ## Project Structure
  - **Cardiomegaly_EfficientNet_Classification**: Model implementation and training steps.
- - **GRAD_CAM_Implementation.ipynb**: Applying GRAD-CAM method on the trained model to visualize which areas of the X-ray were most influential in the model's classification decision.
+ - **GRAD_CAM_Implementation**: Applying GRAD-CAM method on the trained model to visualize which areas of the X-ray were most influential in the model's classification decision.
